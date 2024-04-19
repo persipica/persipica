@@ -4,7 +4,7 @@ Badges https://github.com/Ileriayo/markdown-badges
 Icons  https://gist.github.com/rxaviers/7360908
  -->
 
-<h1 align="center">KYW🐾</h1>
+<h1 align="center">KHS🐾</h1>
 
 <!-- LANGUAGES Widget -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrmhvr&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&hide_border=true&theme=gruvbox_light) -->
