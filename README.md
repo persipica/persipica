@@ -186,7 +186,7 @@ Frontend와 Backend를 REST API로 연결하고 Database까지 연동하여 하�
 
 기획부터 Frontend, Backend, Database, Authentication까지 전체 개발 과정을 직접 구현했습니다.
 
-👉 [Restaurant Review Repository](RESTAURANT_REPOSITORY_URL)
+👉 [Restaurant Review Repository](https://github.com/persipica/Restaurant-Review)
 
 ---
 
@@ -391,7 +391,7 @@ FrontendとBackendをREST APIで接続し、Databaseまで連携したWeb Applic
 
 企画からFrontend、Backend、Database、Authenticationまで、Web Application全体を自分で実装しました。
 
-👉 [Restaurant Review Repository](RESTAURANT_REPOSITORY_URL)
+👉 [Restaurant Review Repository](https://github.com/persipica/Restaurant-Review)
 
 ---
 
